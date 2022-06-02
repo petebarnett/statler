@@ -19,7 +19,7 @@
     "grpc": "^1.19.0",
     "mali": "^0.14.0",
     "pbf": "^3.2.0",
-    "protobufjs": "^6.8.8"
+    "protobufjs": "^6.11.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
